@@ -53,3 +53,11 @@ Results are held in memory and are not saved after the program exits.
 - Arrays
 - Methods
 - Credit-weighted GPA calculation
+
+
+## Sample Output
+
+![Calculator output 1](screenshots/results01.png)
+
+![Calculator output 2](screenshots/results02.png)
+
